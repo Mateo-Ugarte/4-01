@@ -1,10 +1,10 @@
-.hello{
+.hello {
   text-align: left;
-  color: red;
+  color: blue;
+  font-family: cursive;
 }
 
-.#myHeader{
+#myHeader {
   text-align:center;
   color:aquamarine;
-  size:300%;
 }
