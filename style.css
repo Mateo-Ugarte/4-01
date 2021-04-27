@@ -1,10 +1,11 @@
+
 .hello {
   text-align: left;
   color: blue;
   font-family: cursive;
 }
 
-#my_Header {
+.header {
   text-align:center;
   color:aquamarine;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
